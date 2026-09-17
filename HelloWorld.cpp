@@ -1,6 +1,7 @@
 // Simple C++ program to display "Hello World" 
+// Author: Jad Sammoudi <ic7345@wayne.edu>
 // Header file for input output functions 
-#include<iostream>  
+#include<iostream>
   
 using namespace std; 
   
